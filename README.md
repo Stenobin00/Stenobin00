@@ -47,12 +47,8 @@ I enjoy understanding how systems work internally and improving their security t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stenobin00&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stenobin00&theme=default" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenobin00&layout=compact&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stenobin00&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stenobin00&theme=tokyonight" height="180"/>
 </p>
 
 ---
