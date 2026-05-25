@@ -1,82 +1,113 @@
-<h1 align="center">Hi 👋, I'm Stenobin00</h1>
+<h1 align="center">💀 RED TEAM MODE: ACTIVE 💀</h1>
 
 <p align="center">
-  Cybersecurity Enthusiast | API Security Learner | Ethical Hacking Explorer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Pentester;Red+Team+Learner;Web+Security+Enthusiast;Linux+%2B+Cybersecurity" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-I am a cybersecurity enthusiast focused on learning and practicing real-world security skills.  
-My interest lies in **web application security, API security, and penetration testing**.
+```bash
+> whoami
 
-I enjoy understanding how systems work internally and improving their security through ethical hacking practices.
+Name: YOUR_NAME
+Role: Aspiring Red Teamer
+Focus: Web Pentesting | API Security | Linux
+Learning: Active Directory & Exploit Development
+```
 
----
-
-## 🎯 Current Focus
-
-- API Security Testing (OWASP API Top 10)
-- Web Application Penetration Testing
-- Vulnerability Analysis & Exploitation Techniques
-- Building Security Automation Tools
-
----
-
-## 🔧 Skills & Tools
-
-- Linux (Kali / Ubuntu)
-- Git & GitHub
-- Python (automation & scripting)
-- Burp Suite
-- Nmap
-- Basic Web Exploitation Techniques
+- 🛠 Currently building: API Vulnerability Scanner
+- 🌱 Learning: Web Exploitation & Red Teaming
+- 💬 Ask me about: Linux, Burp Suite, Nmap, OWASP
+- ⚡ Goal: Become a professional penetration tester
 
 ---
 
-## 📂 Projects
+# 🧰 Arsenal
 
-- 🔍 API Security Scanner (in progress)
-- 🧪 Web Vulnerability Testing Labs
-- 💣 Payload Testing & Research Toolkit
-- 🤖 Security Automation Scripts
+## 💻 Operating Systems
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
 ---
 
-## 📊 GitHub Stats
+## ⚔️ Pentesting Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6f00?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-black?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-orange?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-green?style=for-the-badge)
+
+---
+
+## 🔥 Skills
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stenobin00&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stenobin00&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stenobin00&theme=github-compact"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
 </p>
 
 ---
 
-## 📫 Contact
+# 🌐 Connect With Me
 
-- GitHub: https://github.com/Stenobin00  
-- Focused on learning, building, and improving in cybersecurity.
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="YOUR_TRYHACKME">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge"/>
+  </a>
+
+  <a href="YOUR_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 Goals
+# 🧠 Current Mission
 
-- Become proficient in API & Web Security
-- Contribute to open-source security tools
-- Start bug bounty hunting professionally
-- Build real-world security projects
+```bash
+[+] Learning Web Pentesting
+[+] Practicing PortSwigger Labs
+[+] Building Security Tools
+[+] Exploring Active Directory
+[+] Studying Red Team Operations
+```
 
 ---
 
 <p align="center">
-  “Security is not about tools, it's about understanding systems.”
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4YmVwdm9jY2Q4b2x4YmQ2ZGV0Z2s3aHh4dDV3Y2V0c2J6dGJzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
 </p>
+
+<h3 align="center">⚠️ Hack The Planet ⚠️</h3>
