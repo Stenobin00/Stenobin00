@@ -11,7 +11,7 @@
 ```bash
 > whoami
 
-Name: YOUR_NAME
+Name: STENOBIN
 Role: Aspiring Red Teamer
 Focus: Web Pentesting | API Security | Linux
 Learning: Active Directory & Exploit Development
