@@ -58,14 +58,11 @@ Learning: Active Directory & Exploit Development
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stenobin00&show_icons=true&theme=radical" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenobin00&layout=compact&theme=radical" height="170"/>
-</p>
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Stenobin00&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stenobin00&layout=compact&theme=tokyonight)
 
 # 🔥 GitHub Streak
 
