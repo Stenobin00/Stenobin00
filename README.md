@@ -1,4 +1,4 @@
-<h1 align="center">💀 RED TEAM MODE: ACTIVE 💀</h1>
+<h1 align="center"> Iam Stenobin </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Pentester;Red+Team+Learner;Web+Security+Enthusiast;Linux+%2B+Cybersecurity" />
@@ -56,22 +56,6 @@ Learning: Active Directory & Exploit Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stenobin00&theme=github_dark)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stenobin00&theme=github_dark)
-</p>
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
-</p>
 
 ---
 
