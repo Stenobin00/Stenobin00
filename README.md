@@ -1,4 +1,4 @@
-<h1 align="center"> Iam Stenobin </h1>
+<h1 align="center">Hi iam Stenobin </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Pentester;Red+Team+Learner;Web+Security+Enthusiast;Linux+%2B+Cybersecurity" />
