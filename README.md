@@ -70,7 +70,7 @@ Learning: Active Directory & Exploit Development
     <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge"/>
   </a>
 
-  <a href="YOUR_GITHUB">
+  <a href="https://github.com/Stenobin00">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
