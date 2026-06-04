@@ -62,7 +62,7 @@ Learning: Active Directory & Exploit Development
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/steno-bin-33b470273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
